@@ -1,4 +1,4 @@
-console.log("Abdu Electrician website is connected!");
+console.log("VLP Electricals Ltd website is connected!");
 
 const services = {
   installations: {
